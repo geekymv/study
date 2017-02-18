@@ -12,3 +12,13 @@
 - 2011年5月5日：Google App Engine支持Go语言
 
 Go 语言的官方网站是[golang.org](http://golang.org)，这个站点采用 Python 作为前端框架，并且使用 Go 语言自带的工具 godoc 运行在 Google App Engine 上来作为 Web 服务器提供文本内容。
+
+
+```go
+package main
+import "fmt"
+
+func main() {
+    fmt.Printf("hello world\n")
+}
+```
