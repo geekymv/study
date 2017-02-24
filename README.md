@@ -7,6 +7,7 @@
 
 ### 学习资料
 - [fastdfs](http://blog.csdn.net/xingjiarong/article/details/50559849)
+- [logback](https://segmentfault.com/a/1190000004693427)
 
 **Go是一个由计算机领域“发明之父”组成的的黄金团队**
 
