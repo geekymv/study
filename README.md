@@ -5,6 +5,9 @@
 ### 程序员必备网站收集
 - [tutorialspoint](http://www.tutorialspoint.com)
 
+### 学习资料
+-[fastdfs](http://blog.csdn.net/xingjiarong/article/details/50559849)
+
 **Go是一个由计算机领域“发明之父”组成的的黄金团队**
 
 ### 时间轴
