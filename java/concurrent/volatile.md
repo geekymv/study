@@ -5,5 +5,5 @@ volatile关键字
 相对于synchroized 是一种较为轻量级的的同步策略。
 
 ## 注意：##
-1. volatile 不具备“互斥行”
+1. volatile 不具备“互斥性”
 2. volatile 不能保证变量的“原子性”
